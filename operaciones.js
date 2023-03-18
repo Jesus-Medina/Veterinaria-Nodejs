@@ -37,7 +37,7 @@ function leer() {
     })
 
     // Imprimimos el resultado en formato de tabla
-    console.table(convertirCitasAJSON)
+    console.table(pacientes)
 }
 
 
